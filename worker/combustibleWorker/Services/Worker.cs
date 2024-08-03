@@ -40,7 +40,6 @@ namespace combustibleWorker.Services
             this.xpath = xpath.Value;
             waitingTimeMilisecond = WaitingTimeMilisecond.Value;
         }
-
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
             while (!stoppingToken.IsCancellationRequested)
@@ -50,9 +49,10 @@ namespace combustibleWorker.Services
                     syncAsync(stoppingToken);
                 }
                 int waiting = Convert.ToInt32(waitingTimeMilisecond.WaitingTime);
-                _logger.LogInformation("Worker running at: {time} each {kk} miliseconds", DateTimeOffset.Now, waiting.ToString());
-                _logger.LogInformation("Service will Sync on {0} at {1}", schedule.day,schedule.hour);
-                _logger.LogInformation("Current day is {0} at {1}", DateTime.Now.DayOfWeek, DateTime.Now.Hour);
+                
+                Logger.Log("Worker running at: "+ DateTimeOffset.Now + " each "+ waiting.ToString()+" miliseconds");
+                Logger.Log("Service will Sync on "+ schedule.day + " at "+ schedule.hour);
+                Logger.Log("Current day is "+ DateTime.Now.DayOfWeek + " at "+ DateTime.Now.Hour);
                 await Task.Delay(waiting, stoppingToken);
             }
         }
@@ -122,7 +122,7 @@ namespace combustibleWorker.Services
                     else
                     {
                         intent++;
-                    _logger.LogInformation("({0}) No se pudo completar la sincronizacion, reintento " + intent.ToString(),DateTime.Now);
+                    Logger.Log("No se pudo completar la sincronizacion, reintento "+ intent.ToString());
                     }
                 }
         }

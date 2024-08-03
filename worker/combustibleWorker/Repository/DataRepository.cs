@@ -20,20 +20,20 @@ namespace combustibleWorker.Repository
 
         public async Task<int> AddAsync(Combustible model)
         {
-
+            int response = 0;
             try
             {
                 var sql = "INSERT INTO combustibleRD (name, price, updateDate) VALUES (@Nombre, @Precio, @UpdateDate)";
                 _dbConnection.Close();
                 _dbConnection.Open();
-                int x = await _dbConnection.ExecuteAsync(sql, model);
+                response = await _dbConnection.ExecuteAsync(sql, model);
                 _dbConnection.Close();
-                return x;
+                return response;
             }
             catch (Exception ex )
             {
-
-                throw ex;
+                Logger.Log(ex.Message);
+                return response;
             }
         }
 

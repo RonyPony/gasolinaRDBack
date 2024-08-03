@@ -1899,19 +1899,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user1\\.nuget\\packages\\": {}
+    "C:\\Users\\leopardo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projectos\\combustiblesRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj",
+      "projectUniqueName": "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj",
       "projectName": "combustibleWorker",
-      "projectPath": "C:\\projectos\\combustiblesRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj",
-      "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\projectos\\combustiblesRDBack\\worker\\combustibleWorker\\obj\\",
+      "projectPath": "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj",
+      "packagesPath": "C:\\Users\\leopardo\\.nuget\\packages\\",
+      "outputPath": "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\leopardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1919,7 +1919,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1976,7 +1975,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

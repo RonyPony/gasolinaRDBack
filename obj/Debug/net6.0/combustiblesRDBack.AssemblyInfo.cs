@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("combustiblesRDBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+876451bced0fe91e902a740d9a44efe0931fb7af")]
 [assembly: System.Reflection.AssemblyProductAttribute("combustiblesRDBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("combustiblesRDBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
