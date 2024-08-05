@@ -1,0 +1,64 @@
+8/3/2024 7:01:03 PM: Worker running at: 8/3/2024 7:01:03 PM -04:00 each 3600000 miliseconds
+8/3/2024 7:01:03 PM: Service will Sync on saturday at 18
+8/3/2024 7:01:03 PM: Current day is Saturday at 19
+8/3/2024 7:01:30 PM: Sync has started
+8/3/2024 7:01:34 PM: Closing Sync process
+8/3/2024 7:01:34 PM: Worker running at: 8/3/2024 7:01:34 PM -04:00 each 3600000 miliseconds
+8/3/2024 7:01:34 PM: Service will Sync on saturday at 19
+8/3/2024 7:01:34 PM: Current day is Saturday at 19
+8/3/2024 7:03:06 PM: Sync has started
+8/3/2024 7:03:10 PM: Closing Sync process
+8/3/2024 7:03:10 PM: Worker running at: 8/3/2024 7:03:10 PM -04:00 each 3600000 miliseconds
+8/3/2024 7:03:10 PM: Service will Sync on saturday at 19
+8/3/2024 7:03:10 PM: Current day is Saturday at 19
+8/3/2024 7:03:10 PM: Sync Completed
+8/3/2024 7:04:26 PM: Sync has started
+8/3/2024 7:04:29 PM: Closing Sync process
+8/3/2024 7:04:29 PM: Worker running at: 8/3/2024 7:04:29 PM -04:00 each 3600000 miliseconds
+8/3/2024 7:04:29 PM: Service will Sync on saturday at 19
+8/3/2024 7:04:29 PM: Current day is Saturday at 19
+8/3/2024 7:04:29 PM: ##########################################
+8/3/2024 7:04:29 PM: Sync Completed
+8/3/2024 7:04:29 PM: ##########################################
+8/3/2024 7:10:23 PM: Sync has started
+8/3/2024 7:10:28 PM: Closing Sync process
+8/3/2024 7:10:28 PM: Worker running at: 8/3/2024 7:10:28 PM -04:00 each 3600000 miliseconds
+8/3/2024 7:10:28 PM: Service will Sync on saturday at 19
+8/3/2024 7:10:28 PM: Current day is Saturday at 19
+8/3/2024 7:10:28 PM: ##########################################
+8/3/2024 7:10:28 PM: Sync Completed
+8/3/2024 7:10:28 PM: ##########################################
+8/3/2024 8:10:28 PM: Worker running at: 8/3/2024 8:10:28 PM -04:00 each 3600000 miliseconds
+8/3/2024 8:10:28 PM: Service will Sync on saturday at 19
+8/3/2024 8:10:28 PM: Current day is Saturday at 20
+8/4/2024 9:37:12 AM: Worker running at: 8/4/2024 9:37:12 AM -04:00 each 3600000 miliseconds
+8/4/2024 9:37:12 AM: Service will Sync on saturday at 19
+8/4/2024 9:37:12 AM: Current day is Sunday at 9
+8/4/2024 9:37:24 AM: Worker running at: 8/4/2024 9:37:24 AM -04:00 each 3600000 miliseconds
+8/4/2024 9:37:24 AM: Service will Sync on saturday at 19
+8/4/2024 9:37:24 AM: Current day is Sunday at 9
+8/4/2024 9:38:13 AM: Sync has started
+8/4/2024 9:38:18 AM: ##########################################
+8/4/2024 9:38:18 AM: Sync Completed
+8/4/2024 9:38:18 AM: ##########################################
+8/4/2024 9:38:18 AM: Closing Sync process
+8/4/2024 9:38:18 AM: Worker running at: 8/4/2024 9:38:18 AM -04:00 each 3600000 miliseconds
+8/4/2024 9:38:18 AM: Service will Sync on sunday at 9
+8/4/2024 9:38:18 AM: Current day is Sunday at 9
+8/4/2024 9:38:33 AM: Sync has started
+8/4/2024 9:38:43 AM: ##########################################
+8/4/2024 9:38:43 AM: Sync Completed
+8/4/2024 9:38:43 AM: ##########################################
+8/4/2024 9:38:43 AM: Closing Sync process
+8/4/2024 9:38:43 AM: Worker running at: 8/4/2024 9:38:43 AM -04:00 each 3600000 miliseconds
+8/4/2024 9:38:43 AM: Service will Sync on sunday at 9
+8/4/2024 9:38:43 AM: Current day is Sunday at 9
+8/4/2024 9:39:04 AM: Sync has started
+8/4/2024 9:39:37 AM: Sync has started
+8/4/2024 9:41:54 AM: Closing Sync process
+8/4/2024 9:41:54 AM: Worker running at: 8/4/2024 9:41:54 AM -04:00 each 3600000 miliseconds
+8/4/2024 9:41:54 AM: Service will Sync on sunday at 9
+8/4/2024 9:41:54 AM: Current day is Sunday at 9
+8/4/2024 9:42:00 AM: ##########################################
+8/4/2024 9:42:00 AM: Sync Completed
+8/4/2024 9:42:00 AM: ##########################################

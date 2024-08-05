@@ -10,5 +10,7 @@ namespace CombustiblesrdBack.Services
     public interface ICombustibleService
     {
         List<Combustible> GetCombustible();
+        Task<IEnumerable<Combustible>> GetCombustiblesLocalAsync();
+        Task<IEnumerable<List<Combustible>>> GetCombustiblesHistory();
     }
 }

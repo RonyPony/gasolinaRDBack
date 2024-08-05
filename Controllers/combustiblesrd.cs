@@ -10,22 +10,26 @@ namespace CombustiblesrdBack.Controllers
     public class Combustiblesrd : ControllerBase
     {
 
-        private readonly ILogger<Combustiblesrd> _logger;
         private readonly ICombustibleService _combustibleService;
 
         public Combustiblesrd(ILogger<Combustiblesrd> logger, ICombustibleService combustibleService)
         {
-            _logger = logger;
             this._combustibleService = combustibleService;
+        }
+        [HttpGet("getHistory")]
+        public async Task<IActionResult> GetHistoricAsync() 
+        {
+            IEnumerable<List<Combustible>> response = await _combustibleService.GetCombustiblesHistory();  
+            return Ok(response);
         }
 
         [HttpGet("getPrices")]
-        public IActionResult Get()
+        public async Task<IActionResult> GetAsync()
         {
-            var response = new ApiResponse<List<Combustible>>();
+            var response = new ApiResponse<IEnumerable<Combustible>>();
             try
             {
-                response.Combustibles = this._combustibleService.GetCombustible();
+                response.Combustibles = await _combustibleService.GetCombustiblesLocalAsync();
             }
             catch (Exception ex)
             {

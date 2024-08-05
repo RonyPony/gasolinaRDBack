@@ -46,7 +46,9 @@ namespace combustibleWorker.Services
             {
                 if (isToday() && isNow())
                 {
+                    Logger.Log("Sync has started");
                     syncAsync(stoppingToken);
+                    Logger.Log("Closing Sync process");
                 }
                 int waiting = Convert.ToInt32(waitingTimeMilisecond.WaitingTime);
                 
@@ -84,7 +86,8 @@ namespace combustibleWorker.Services
                     today = DayOfWeek.Sunday;
                     break;
                 default:
-                    throw new ArgumentException("Invalid day of the week");
+                    Logger.Log("Invalid day of the week");
+                    break;
             }
 
             bool is2day = currentTime.DayOfWeek == today;
@@ -118,7 +121,11 @@ namespace combustibleWorker.Services
                 if (info.Any())
                     {
                         completed = true;
-                    }
+                    const string space = "##########################################";
+                    Logger.Log(space);
+                    Logger.Log("Sync Completed");
+                    Logger.Log(space);
+                }
                     else
                     {
                         intent++;
