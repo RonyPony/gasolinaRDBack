@@ -65,3 +65,17 @@
 8/5/2024 8:03:21 PM: All Tests Completed, Ready to operate.
 8/5/2024 8:03:29 PM: Sync On Startup Enabled
 8/5/2024 8:03:30 PM: Sync has started
+8/5/2024 8:51:18 PM: Worker starting...
+8/5/2024 8:51:20 PM: Worker Started at: 8/5/2024 8:51:20 PM +02:00
+8/5/2024 8:51:20 PM: Starting Service Health Check...
+8/5/2024 8:51:21 PM: Service Health Check Results
+8/5/2024 8:51:21 PM: All Tests Completed, Ready to operate.
+8/5/2024 8:51:24 PM: Sync On Startup Enabled
+8/5/2024 8:51:24 PM: Sync has started
+8/5/2024 8:52:09 PM: ##########################################
+8/5/2024 8:52:09 PM: Sync Completed
+8/5/2024 8:52:09 PM: ##########################################
+8/5/2024 8:52:11 PM: Closing Sync process
+8/5/2024 8:52:14 PM: Worker running at: 8/5/2024 8:52:14 PM +02:00 each 3600000 milliseconds
+8/5/2024 8:52:14 PM: Service will Sync on friday at 11
+8/5/2024 8:52:14 PM: Current day is Monday at 20

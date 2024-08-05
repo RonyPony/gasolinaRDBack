@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\projects\\gasolinaRDBack\\",
+  "WorkspaceRootPath": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\combustiblesrdback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:combustiblesrdback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\controllers\\combustiblesrd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\controllers\\combustiblesrd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:controllers\\combustiblesrd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\services\\combustibleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:services\\combustibleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\repository\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:repository\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\services\\icombustibleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:services\\icombustibleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\services\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:services\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\models\\combustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:models\\combustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\repository\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:repository\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\services\\combustibleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:services\\combustibleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\combustiblesrdback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:combustiblesrdback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\services\\icombustibleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:services\\icombustibleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\services\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:services\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\models\\combustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:models\\combustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\handles\\handle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\handles\\handle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:handles\\handle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\models\\enumcombistible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\models\\enumcombistible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:models\\enumcombistible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\appsettingmodels\\urlpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\appsettingmodels\\urlpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:appsettingmodels\\urlpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projects\\gasolinardback\\appsettingmodels\\xpathexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|c:\\projectos\\gasolinard-back\\gasolinardback\\appsettingmodels\\xpathexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9BFE76-7F7D-4298-A82C-FEC7A97B9C8E}|combustiblesRDBack.csproj|solutionrelative:appsettingmodels\\xpathexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\Repository\\DataRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\Repository\\DataRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:worker\\combustibleWorker\\Repository\\DataRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:worker\\combustibleWorker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\gasolinaRDBack\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,116 +82,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "combustiblesrd.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\Controllers\\combustiblesrd.cs",
-              "RelativeDocumentMoniker": "Controllers\\combustiblesrd.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\Controllers\\combustiblesrd.cs",
-              "RelativeToolTip": "Controllers\\combustiblesrd.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T15:12:54.809Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T15:13:43.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Handle.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\Handles\\Handle.cs",
-              "RelativeDocumentMoniker": "Handles\\Handle.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\Handles\\Handle.cs",
-              "RelativeToolTip": "Handles\\Handle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAoAAAA",
+              "DocumentIndex": 7,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Services\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "Services\\IDataRepository.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Services\\IDataRepository.cs",
+              "RelativeToolTip": "Services\\IDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T15:23:42.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T00:54:27.545Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ICombustibleService.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\Services\\ICombustibleService.cs",
-              "RelativeDocumentMoniker": "Services\\ICombustibleService.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\Services\\ICombustibleService.cs",
-              "RelativeToolTip": "Services\\ICombustibleService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T15:21:24.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\Models\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\Models\\ApiResponse.cs",
-              "RelativeToolTip": "Models\\ApiResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T15:29:19.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-01T15:13:43.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Combustible.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\Models\\Combustible.cs",
-              "RelativeDocumentMoniker": "Models\\Combustible.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\Models\\Combustible.cs",
-              "RelativeToolTip": "Models\\Combustible.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T15:25:48.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDataRepository.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\Services\\IDataRepository.cs",
-              "RelativeDocumentMoniker": "Services\\IDataRepository.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\Services\\IDataRepository.cs",
-              "RelativeToolTip": "Services\\IDataRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T00:54:27.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "CombustibleService.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\Services\\CombustibleService.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Services\\CombustibleService.cs",
               "RelativeDocumentMoniker": "Services\\CombustibleService.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\Services\\CombustibleService.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Services\\CombustibleService.cs",
               "RelativeToolTip": "Services\\CombustibleService.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAmwC8AAAAIAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T15:20:14.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "combustiblesRDBack.csproj",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\combustiblesRDBack.csproj",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\combustiblesRDBack.csproj",
               "RelativeDocumentMoniker": "combustiblesRDBack.csproj",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\combustiblesRDBack.csproj",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\combustiblesRDBack.csproj",
               "RelativeToolTip": "combustiblesRDBack.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -200,36 +137,99 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-01T15:32:54.239Z"
+              "DocumentIndex": 0,
+              "Title": "combustiblesrd.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Controllers\\combustiblesrd.cs",
+              "RelativeDocumentMoniker": "Controllers\\combustiblesrd.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Controllers\\combustiblesrd.cs",
+              "RelativeToolTip": "Controllers\\combustiblesrd.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:12:54.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "DataRepository.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\Repository\\DataRepository.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Repository\\DataRepository.cs",
               "RelativeDocumentMoniker": "Repository\\DataRepository.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\Repository\\DataRepository.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Repository\\DataRepository.cs",
               "RelativeToolTip": "Repository\\DataRepository.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAAwJEAAAAIAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwDsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T00:46:19.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T15:32:54.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Combustible.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Models\\Combustible.cs",
+              "RelativeDocumentMoniker": "Models\\Combustible.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Models\\Combustible.cs",
+              "RelativeToolTip": "Models\\Combustible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:25:48.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:29:19.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICombustibleService.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Services\\ICombustibleService.cs",
+              "RelativeDocumentMoniker": "Services\\ICombustibleService.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Services\\ICombustibleService.cs",
+              "RelativeToolTip": "Services\\ICombustibleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:21:24.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Handle.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Handles\\Handle.cs",
+              "RelativeDocumentMoniker": "Handles\\Handle.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Handles\\Handle.cs",
+              "RelativeToolTip": "Handles\\Handle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:23:42.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\Program.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\Program.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,9 +239,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "DataRepository.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\Repository\\DataRepository.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\Repository\\DataRepository.cs",
               "RelativeDocumentMoniker": "worker\\combustibleWorker\\Repository\\DataRepository.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\Repository\\DataRepository.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\Repository\\DataRepository.cs",
               "RelativeToolTip": "worker\\combustibleWorker\\Repository\\DataRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAADwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,9 +251,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\Program.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\Program.cs",
               "RelativeDocumentMoniker": "worker\\combustibleWorker\\Program.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\Program.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\Program.cs",
               "RelativeToolTip": "worker\\combustibleWorker\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,9 +263,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": ".NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
               "RelativeToolTip": "obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -275,9 +275,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "EnumCombistible.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\Models\\EnumCombistible.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Models\\EnumCombistible.cs",
               "RelativeDocumentMoniker": "Models\\EnumCombistible.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\Models\\EnumCombistible.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\Models\\EnumCombistible.cs",
               "RelativeToolTip": "Models\\EnumCombistible.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -287,9 +287,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "XPathExpression.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\AppSettingModels\\XPathExpression.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\AppSettingModels\\XPathExpression.cs",
               "RelativeDocumentMoniker": "AppSettingModels\\XPathExpression.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\AppSettingModels\\XPathExpression.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\AppSettingModels\\XPathExpression.cs",
               "RelativeToolTip": "AppSettingModels\\XPathExpression.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -299,9 +299,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "UrlPage.cs",
-              "DocumentMoniker": "C:\\projects\\gasolinaRDBack\\AppSettingModels\\UrlPage.cs",
+              "DocumentMoniker": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\AppSettingModels\\UrlPage.cs",
               "RelativeDocumentMoniker": "AppSettingModels\\UrlPage.cs",
-              "ToolTip": "C:\\projects\\gasolinaRDBack\\AppSettingModels\\UrlPage.cs",
+              "ToolTip": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\AppSettingModels\\UrlPage.cs",
               "RelativeToolTip": "AppSettingModels\\UrlPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
