@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj": {}
+    "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj": {}
   },
   "projects": {
-    "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj": {
+    "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj",
+        "projectUniqueName": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj",
         "projectName": "combustibleWorker",
-        "projectPath": "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj",
-        "packagesPath": "C:\\Users\\leopardo\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\gasolinaRDBack\\worker\\combustibleWorker\\obj\\",
+        "projectPath": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leopardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,6 +58,10 @@
               "target": "Package",
               "version": "[6.0.1, )"
             },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.6, )"
@@ -78,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

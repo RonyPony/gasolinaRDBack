@@ -1,0 +1,5 @@
+C:\projectos\gasolinaRD-back\gasolinaRDBack\worker\combustibleWorker\bin\Release\net6.0\publish\win-x64\appsettings.Development.json
+C:\projectos\gasolinaRD-back\gasolinaRDBack\worker\combustibleWorker\bin\Release\net6.0\publish\win-x64\appsettings.json
+C:\projectos\gasolinaRD-back\gasolinaRDBack\worker\combustibleWorker\bin\Release\net6.0\publish\win-x64\combustibleWorker.pdb
+C:\projectos\gasolinaRD-back\gasolinaRDBack\worker\combustibleWorker\bin\Release\net6.0\publish\win-x64\sni.dll
+C:\projectos\gasolinaRD-back\gasolinaRDBack\worker\combustibleWorker\bin\Release\net6.0\publish\win-x64\combustibleWorker.exe

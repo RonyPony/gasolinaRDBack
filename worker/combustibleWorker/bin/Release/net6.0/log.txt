@@ -1,0 +1,11 @@
+8/5/2024 7:27:20 PM: Worker starting...
+8/5/2024 7:27:20 PM: UrlPage: https://micm.gob.do/
+8/5/2024 7:27:20 PM: XPathExpression: //*[@id='post-10']/div/div/section[8]/div/div/div/section[3]
+8/5/2024 7:27:20 PM: WaitingTimeMilisecond: 3600000
+8/5/2024 7:27:20 PM: OnFailureRetryQty: 3
+8/5/2024 7:27:20 PM: Schedule Day: friday
+8/5/2024 7:27:20 PM: Schedule Hour: 11
+8/5/2024 7:27:20 PM: Worker Started at: 8/5/2024 7:27:20 PM +02:00
+8/5/2024 7:27:20 PM: Worker running at: 8/5/2024 7:27:20 PM +02:00 each 3600000 milliseconds
+8/5/2024 7:27:20 PM: Service will Sync on friday at 11
+8/5/2024 7:27:20 PM: Current day is Monday at 19

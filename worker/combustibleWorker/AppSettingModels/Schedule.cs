@@ -9,5 +9,6 @@ namespace combustibleWorker.AppSettingModels
     {
         public string day { get; set; }
         public string hour { get; set; }
+        public bool syncOnStartup {  get; set; }
     }
 }
