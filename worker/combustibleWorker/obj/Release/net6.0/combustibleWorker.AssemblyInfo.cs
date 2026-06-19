@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("combustibleWorker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dfa5fab4d7cd21c2937e048e054209d11b21107")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c52e25b4f9301ca6f95e4f98d721c19fb7e7fbea")]
 [assembly: System.Reflection.AssemblyProductAttribute("combustibleWorker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("combustibleWorker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

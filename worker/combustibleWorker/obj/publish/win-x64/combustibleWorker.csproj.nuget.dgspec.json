@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj": {}
+    "C:\\projects\\gasolinaRD-back\\worker\\combustibleWorker\\combustibleWorker.csproj": {}
   },
   "projects": {
-    "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj": {
+    "C:\\projects\\gasolinaRD-back\\worker\\combustibleWorker\\combustibleWorker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj",
+        "projectUniqueName": "C:\\projects\\gasolinaRD-back\\worker\\combustibleWorker\\combustibleWorker.csproj",
         "projectName": "combustibleWorker",
-        "projectPath": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\combustibleWorker.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\projectos\\gasolinaRD-back\\gasolinaRDBack\\worker\\combustibleWorker\\obj\\publish\\win-x64\\",
+        "projectPath": "C:\\projects\\gasolinaRD-back\\worker\\combustibleWorker\\combustibleWorker.csproj",
+        "packagesPath": "C:\\Users\\Rony\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\gasolinaRD-back\\worker\\combustibleWorker\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,11 +26,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
+            "framework": "net6.0",
             "targetAlias": "net6.0",
             "projectReferences": {}
           }
@@ -40,10 +44,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net6.0": {
+          "framework": "net6.0",
           "targetAlias": "net6.0",
           "dependencies": {
             "Dapper": {
@@ -65,13 +71,13 @@
             "Microsoft.NET.ILLink.Analyzers": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.100-1.23401.1, )",
+              "version": "[7.0.100-1.23211.1, )",
               "autoReferenced": true
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.100-1.23401.1, )",
+              "version": "[7.0.100-1.23211.1, )",
               "autoReferenced": true
             },
             "System.Data.SqlClient": {
@@ -93,15 +99,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[6.0.32, 6.0.32]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[6.0.32, 6.0.32]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[6.0.32, 6.0.32]"
+              "version": "[6.0.36, 6.0.36]"
             }
           ],
           "frameworkReferences": {
@@ -109,7 +115,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

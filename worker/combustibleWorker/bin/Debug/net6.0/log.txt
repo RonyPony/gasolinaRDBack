@@ -79,3 +79,76 @@
 8/5/2024 8:52:14 PM: Worker running at: 8/5/2024 8:52:14 PM +02:00 each 3600000 milliseconds
 8/5/2024 8:52:14 PM: Service will Sync on friday at 11
 8/5/2024 8:52:14 PM: Current day is Monday at 20
+4/24/2026 11:45:30 AM: Worker starting...
+4/24/2026 11:45:33 AM: Worker Started at: 4/24/2026 11:45:33 AM -04:00
+4/24/2026 11:45:34 AM: Starting Service Health Check...
+4/24/2026 11:45:35 AM: Service Health Check Results
+4/24/2026 11:45:35 AM: All Tests Completed, Ready to operate.
+4/24/2026 11:45:37 AM: Sync On Startup Enabled
+4/24/2026 11:45:38 AM: Sync has started
+4/24/2026 11:45:40 AM: No se pudo completar la sincronización, reintento 1
+4/24/2026 11:45:57 AM: Worker starting...
+4/24/2026 11:46:00 AM: Worker Started at: 4/24/2026 11:46:00 AM -04:00
+4/24/2026 11:46:00 AM: Starting Service Health Check...
+4/24/2026 11:46:01 AM: Service Health Check Results
+4/24/2026 11:46:01 AM: All Tests Completed, Ready to operate.
+4/24/2026 11:46:04 AM: Sync On Startup Enabled
+4/24/2026 11:46:05 AM: Sync has started
+4/24/2026 11:46:09 AM: No se pudo completar la sincronización, reintento 1
+4/24/2026 11:46:20 AM: Worker starting...
+4/24/2026 11:46:22 AM: Worker Started at: 4/24/2026 11:46:22 AM -04:00
+4/24/2026 11:46:22 AM: Starting Service Health Check...
+4/24/2026 11:46:22 AM: Service Health Check Results
+4/24/2026 11:46:22 AM: All Tests Completed, Ready to operate.
+4/24/2026 11:46:23 AM: Sync On Startup Enabled
+4/24/2026 11:46:23 AM: Sync has started
+4/24/2026 11:46:47 AM: No se pudo completar la sincronización, reintento 1
+4/24/2026 11:46:49 AM: Worker starting...
+4/24/2026 11:46:51 AM: Worker Started at: 4/24/2026 11:46:51 AM -04:00
+4/24/2026 11:46:51 AM: Starting Service Health Check...
+4/24/2026 11:46:51 AM: Service Health Check Results
+4/24/2026 11:46:51 AM: All Tests Completed, Ready to operate.
+4/24/2026 11:46:51 AM: Sync On Startup Enabled
+4/24/2026 11:46:51 AM: Sync has started
+4/24/2026 11:50:00 AM: Worker starting...
+4/24/2026 11:50:02 AM: Worker starting...
+4/24/2026 11:50:04 AM: Worker Started at: 4/24/2026 11:50:04 AM -04:00
+4/24/2026 11:50:04 AM: Starting Service Health Check...
+4/24/2026 11:50:04 AM: Service Health Check Results
+4/24/2026 11:50:04 AM: All Tests Completed, Ready to operate.
+4/24/2026 11:50:04 AM: Sync On Startup Enabled
+4/24/2026 11:50:04 AM: Sync has started
+4/24/2026 12:16:34 PM: Worker starting...
+4/24/2026 12:16:38 PM: Worker Started at: 4/24/2026 12:16:38 PM -04:00
+4/24/2026 12:16:38 PM: Starting Service Health Check...
+4/24/2026 12:16:38 PM: Service Health Check Results
+4/24/2026 12:16:38 PM: All Tests Completed, Ready to operate.
+4/24/2026 12:16:38 PM: Sync On Startup Enabled
+4/24/2026 12:16:38 PM: Sync has started
+4/24/2026 12:16:55 PM: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+4/24/2026 12:16:55 PM: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+4/24/2026 12:16:55 PM: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+4/24/2026 12:16:55 PM: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+4/24/2026 12:16:55 PM: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+4/24/2026 12:16:55 PM: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+4/24/2026 12:16:55 PM: ##########################################
+4/24/2026 12:16:55 PM: Sync Completed
+4/24/2026 12:16:55 PM: ##########################################
+4/24/2026 12:16:55 PM: Closing Sync process
+4/24/2026 12:16:55 PM: Worker running at: 4/24/2026 12:16:55 PM -04:00 each 3600000 milliseconds
+4/24/2026 12:16:55 PM: Service will Sync on friday at 11
+4/24/2026 12:16:55 PM: Current day is Friday at 12
+4/24/2026 12:18:05 PM: Worker starting...
+4/24/2026 12:18:06 PM: Worker Started at: 4/24/2026 12:18:06 PM -04:00
+4/24/2026 12:18:06 PM: Starting Service Health Check...
+4/24/2026 12:18:06 PM: Service Health Check Results
+4/24/2026 12:18:06 PM: All Tests Completed, Ready to operate.
+4/24/2026 12:18:06 PM: Sync On Startup Enabled
+4/24/2026 12:18:06 PM: Sync has started
+4/24/2026 12:18:09 PM: ##########################################
+4/24/2026 12:18:09 PM: Sync Completed
+4/24/2026 12:18:09 PM: ##########################################
+4/24/2026 12:18:09 PM: Closing Sync process
+4/24/2026 12:18:09 PM: Worker running at: 4/24/2026 12:18:09 PM -04:00 each 3600000 milliseconds
+4/24/2026 12:18:09 PM: Service will Sync on friday at 11
+4/24/2026 12:18:09 PM: Current day is Friday at 12

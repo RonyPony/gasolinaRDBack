@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "CombustiblesrdBack.Controllers.Combustiblesrd",
+    "Method": "GetHistoricAsync",
+    "RelativePath": "Combustiblesrd/getHistory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CombustiblesrdBack.Controllers.Combustiblesrd",
+    "Method": "GetAsync",
+    "RelativePath": "Combustiblesrd/getPrices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "combustiblesRDBack",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Combustiblesrd/getHistory": {
+      "get": {
+        "tags": [
+          "Combustiblesrd"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Combustiblesrd/getPrices": {
+      "get": {
+        "tags": [
+          "Combustiblesrd"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

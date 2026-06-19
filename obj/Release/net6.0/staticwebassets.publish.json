@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "Y3s6i73EYrkN40GHU4lKZMTKtWPxjemajrjBeCq0jIQ=",
-  "Source": "combustiblesRDBack",
-  "BasePath": "_content/combustiblesRDBack",
-  "Mode": "Default",
-  "ManifestType": "Publish",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"VLJxsFg0f9nSM3x6wIPGW7SDqqeeLtqyVpp9fd1VH0M=","Source":"combustiblesRDBack","BasePath":"/","Mode":"Root","ManifestType":"Publish","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

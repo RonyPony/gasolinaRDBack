@@ -28,7 +28,7 @@ namespace CombustiblesrdBack.Repository
 
         public async Task<IEnumerable<Combustible>> GetAllAsync()
         {
-            string query = "SELECT top (6) * FROM combustibleRD;";
+            string query = "SELECT top (6) * FROM combustibleRD order by updateDate desc;";
             string cs = configx.GetConnectionString("DefaultConnection");
             List<Combustible> data = new List<Combustible>();
             using (SqlConnection connection = new SqlConnection(cs))
